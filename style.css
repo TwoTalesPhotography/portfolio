@@ -809,6 +809,8 @@ input:required {
 
 @media only screen and (max-width: 767px) {
   .classy-nav-container .classy-navbar .nav-brand {
+	  font-size: 20px; /* Adjust the font size as needed */
+    padding: 10px 0; /* Adjust the top and bottom padding */
     max-width: fit-content;
     margin-right: 15px;
   }
