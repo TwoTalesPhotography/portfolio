@@ -984,8 +984,8 @@ input:required {
 }
 
 .single-welcome-slide .welcome-text h2 {
-  font-weight: 700;
-  font-size: 82px;
+  font-weight: 600;
+  font-size: 74px;
   display: block;
   margin-bottom: 0;
   background: -webkit-linear-gradient(#ff9696, #ffe89e);
